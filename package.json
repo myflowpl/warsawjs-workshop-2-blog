@@ -5,6 +5,7 @@
   "main": "scripts/main.js",
   "scripts": {
     "start": "live-server",
+    "api": "json-server db.json --static ./ --port 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,6 +27,7 @@
   "homepage": "https://github.com/myflowpl/warsawjs-workshop-2-blog#readme",
   "dependencies": {},
   "devDependencies": {
+    "json-server": "^0.9.4",
     "live-server": "^1.2.0"
   }
 }

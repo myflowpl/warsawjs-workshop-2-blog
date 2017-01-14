@@ -12,8 +12,7 @@ Outcome of the WarsawJS Workshop #2 training session
 * step 6 - views & templates
 * step 7 - forms & validation
 * step 8 - promisses & callbacks
-* step 9 - services
-* extra 10 - api
-* extra 11 - comments
-* extra 12 - google map
-* extra 13 - weather widget
+* step 9 - api
+* extra 10 - comments
+* extra 11 - google map
+* extra 12 - weather widget
