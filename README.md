@@ -16,3 +16,8 @@ Outcome of the WarsawJS Workshop #2 training session
 * extra 10 - comments
 * extra 11 - google map
 * extra 12 - weather widget
+
+## how to try it ?
+clone the repo and run `npm start` for development 
+
+or `npm run api` to use the api (for api use, you have to be on branch step-9)
