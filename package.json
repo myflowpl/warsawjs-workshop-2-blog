@@ -1,0 +1,31 @@
+{
+  "name": "warsawjs-workshop-2-blog",
+  "version": "1.0.0",
+  "description": "WarsawJS Workshop #2 - Blog application",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "node node_modules/.bin/static-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myflowpl/warsawjs-workshop-2-blog.git"
+  },
+  "keywords": [
+    "warsawjs",
+    "javascript",
+    "blog",
+    "sample",
+    "application"
+  ],
+  "author": "Piotr Błaszczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myflowpl/warsawjs-workshop-2-blog/issues"
+  },
+  "homepage": "https://github.com/myflowpl/warsawjs-workshop-2-blog#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "static-server": "^2.0.3"
+  }
+}
