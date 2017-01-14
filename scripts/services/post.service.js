@@ -16,7 +16,7 @@ export class PostService {
 
     static create(data) {
         data.id = posts.length+1;
-        posts.push(data);
+        posts.unshift(data);
         return new Promise((resolve, reject) => {
             resolve(data);
         })
