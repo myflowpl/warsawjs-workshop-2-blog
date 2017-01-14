@@ -18,6 +18,13 @@ Outcome of the WarsawJS Workshop #2 training session
 * extra 12 - weather widget
 
 ## how to try it ?
-clone the repo and run `npm start` for development 
+clone the repo 
+and `npm install`
 
-or `npm run api` to use the api (for api use, you have to be on branch step-9)
+for development run `npm run start`
+
+for api use, you have to be on branch step-9
+
+then run the server `npm run api`
+
+if the page doe's not ope automaticly, just go to http://localhost:8080/
