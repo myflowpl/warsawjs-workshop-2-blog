@@ -3,13 +3,12 @@
  */
 
 import routie from 'libs/routie.js';
-import {PostService} from '../services/post.service.js';
 
-routie('', controller);
+routie('o-mnie', controller);
 
 export function controller() {
 
-    let template = document.querySelector('#template-post-list').innerHTML;
+    let template = document.querySelector('#template-about').innerHTML;
 
     document.getElementById('page').innerHTML = template;
 }
