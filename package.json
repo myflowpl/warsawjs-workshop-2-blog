@@ -4,7 +4,7 @@
   "description": "WarsawJS Workshop #2 - Blog application",
   "main": "scripts/main.js",
   "scripts": {
-    "start": "node node_modules/.bin/static-server -p 8080",
+    "start": "node node_modules/.bin/live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,6 +26,6 @@
   "homepage": "https://github.com/myflowpl/warsawjs-workshop-2-blog#readme",
   "dependencies": {},
   "devDependencies": {
-    "static-server": "^2.0.3"
+    "live-server": "^1.2.0"
   }
 }
