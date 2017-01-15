@@ -28,3 +28,13 @@ for api use, you have to be on branch step-9
 then run the server `npm run api`
 
 if the page doe's not ope automaticly, just go to http://localhost:8080/
+
+## the results of the workshop can be found as spearate repos 
+* https://alinatucholka.github.io/warsawjs-blog
+* https://geodotka.github.io/warsawjs-workshop-2-blog/
+* https://github.com/robreczarek/warsawjs-workshop-2-blog
+* * https://hub33k.github.io/warsawjs-workshop-2-blog
+* https://luckymichaln.github.io/warsawjs-workshop-2-blog/
+* https://pawlakartur.github.io/warsawjs-workshop-2-blog/app/
+* https://agnieszkagre.github.io/warsawjs-workshop-2-blog/
+* https://katubryda.github.io/warsawjs-workshop-2-blog/
